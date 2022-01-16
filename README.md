@@ -209,7 +209,8 @@ h1{
 ```
 
 ## OUTPUT:
-![ouput](op.png)
+![epc](https://user-images.githubusercontent.com/94233064/149667088-a10e19ac-ad07-4d75-b3aa-86214655b104.png)
+
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
