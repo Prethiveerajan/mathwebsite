@@ -209,8 +209,7 @@ h1{
 ```
 
 ## OUTPUT:
-![output](output1.png)
-
+![ouput](op.png)
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
